@@ -2,4 +2,4 @@
 .vscode/
 
 # Ignorar pasta de build
-.build/
+build/
