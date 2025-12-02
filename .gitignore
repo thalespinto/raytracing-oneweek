@@ -1,0 +1,5 @@
+# Ignorar pasta do VSCode
+.vscode/
+
+# Ignorar pasta de build
+.build/
